@@ -1,3 +1,7 @@
+<!-- /qompassai/deno/README.md -->
+<!-- ---------------------------- -->
+<!-- Copyright (C) 2025 Qompass AI, All rights reserved -->
+
 <h1 align="center">Deno</h1>
 
 <h2 align="center">Qompass AI on the Deno runtime</h2>
@@ -5,6 +9,7 @@
 <p align="center">
 
 ![Repository Views](https://komarev.com/ghpvc/?username=qompassai-deno)
+![GitHub all releases](https://img.shields.io/github/downloads/qompassai/deno/total?style=flat-square)
 
   <a href="https://deno.com">
   <img src="https://img.shields.io/badge/Deno-000000?style=for-the-badge&logo=deno&logoColor=white" alt="Deno">
@@ -188,21 +193,6 @@ Where:
 ### A: AI models ~=10 billion(10B) parameters and below. For comparison, OpenAI's GPT4o contains approximately 200B parameters.
 
 </details>
-
-<details id="Zenodo DOI">
-  <summary><strong>Digital Object Identifier (DOI) for public transparency and accountability</strong></summary>
-Badge
-
-
-```markdown
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.xxxxxx.svg)](https://doi.org/10.5281/zenodo.xxxxxx)
-```
-
----
-
-- See `.zenodo.json` for metadata, authorship, licensing, and related software attribution.
-</details>
-
 
 <details id="Dual-License Notice">
   <summary><strong>What a Dual-License Means</strong></summary>
